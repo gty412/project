@@ -1,3 +1,15 @@
 {
-  "welcome": "Welcome to our app."
+  "test": "test",
+
+  "homepage": "Home",
+  "aboutpage": "About us",
+  "blogpage": "Blog",
+  "contactpage": "Contact us",
+  "letstalk": "Let's talk",
+
+  "contentservices": "CONTENT SERVICES",
+  "writeprofessional": "I write professional product content",
+  "elementum(change)": "Elementum, amet, sagittis mollis tristique viverra at.",
+  "feugiatscelerisque(change)": "Feugiat scelerisque:",
+  "duistindicut(change)": " Duis tincidunt ipsum faucibus massa faucibus eget nunc. Tempus sed.Duis tincidunt ipsum faucibus massa faucibus eget nunc. Tempus sed."
 }

@@ -1,3 +1,15 @@
 {
-  "welcome": "Добро пожаловати до нашого сайту."
+  "test": "тест",
+
+  "homepage": "Початок",
+  "aboutpage": "Про нас",
+  "blogpage": "Блог",
+  "contactpage": "Зв'язок",
+  "letstalk": "Давайте поговоримо",
+
+  "contentservices": "ПОСЛУГИ ВМІСТУ",
+  "writeprofessional": "Я пишу професійний контент продукти",
+  "elementum(change)": "Elementum, amet, sagittis mollis tristique viverra at.",
+  "feugiatscelerisque(change)": "Feugiat scelerisque:",
+  "duistindicut(change)": " Duis tincidunt ipsum faucibus massa faucibus eget nunc. Tempus sed.Duis tincidunt ipsum faucibus massa faucibus eget nunc. Tempus sed."
 }
