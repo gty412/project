@@ -6,7 +6,6 @@ interface CombinedSectionProps {}
 const CombinedSection: React.FC<CombinedSectionProps> = () => {
   return (
     <div className="combined-section">
-      {/* --- Верхняя часть (Get a free consultation!) --- */}
       <div className="consultation-part">
         <h2>Get a free consultation!</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae amet mauris odio et justo. Et odio at viverra.</p>
@@ -15,25 +14,22 @@ const CombinedSection: React.FC<CombinedSectionProps> = () => {
           <button type="submit">Submit</button>
         </form>
         <div className="consultation-image">
-          {/* Здесь можно было бы добавить компонент для изображения */}
-          {/* <img src="/path/to/image.jpg" alt="Consultation" /> */}
+          {<img src="..\ca00199f30ff64821b5ba701e9ffa10a110ca8af.jpg" alt="Consultation" />}
         </div>
       </div>
 
-      {/* --- Нижняя часть (Футер) --- */}
       <footer className="main-footer">
         <div className="footer-section creator">
           <h3>Creator</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Vitae.</p>
           <div className="social-icons">
-            {/* Компоненты для иконок социальных сетей */}
             <a href="#" target="_blank" rel="noopener noreferrer"> {}
-              {/* <FontAwesomeIcon icon={faTwitter} /> */} Twitter
+              {<FontAwesomeIcon icon="fa-brands fa-x-twitter" /> } 
             </a>
             <a href="#" target="_blank" rel="noopener noreferrer"> {}
-              {} Facebook
+              {<FontAwesomeIcon icon="fa-brands fa-facebook" />} 
             </a>
-            {/* ... другие иконки */}
+            {<FontAwesomeIcon icon="fa-brands fa-instagram" />}
           </div>
         </div>
         <div className="footer-section quick-links">
